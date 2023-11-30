@@ -1,7 +1,7 @@
 
 # Tic-Tac-Toe in Leo
 
-![Tic-Tac-Toe Board](../.resources/tictactoe.png)
+
 
 Immerse yourself in the classic Tic-Tac-Toe game, now implemented in the Leo programming language.
 
